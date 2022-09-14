@@ -1,0 +1,9 @@
+At round 0 testing ten percent lowest accuracy: 0.016666666666666666
+At round 0 training ten percent lowest accuracy: 0.09527151211361738
+At round 0 validating ten percent lowest accuracy: 0.025
+At round 1 testing ten percent lowest accuracy: 0.023809523809523808
+At round 1 training ten percent lowest accuracy: 0.17421718854097268
+At round 1 validating ten percent lowest accuracy: 0.06285714285714286
+At round 2 testing ten percent lowest accuracy: 0.023809523809523808
+At round 2 training ten percent lowest accuracy: 0.17421718854097268
+At round 2 validating ten percent lowest accuracy: 0.06285714285714286

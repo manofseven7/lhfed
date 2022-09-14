@@ -1,0 +1,1 @@
+python  -u main.py --dataset=vehicle --optimizer=qffedavg --learning_rate=0.01  --learning_rate_lambda=0.01 --num_rounds=20 --eval_every=1 --clients_per_round=10 --batch_size=64 --q=0 --model=svm --sampling=1 --num_epochs=1 --data_partition_seed=1 --log_interval=10 --static_step_size=0 --track_individual_accuracy=0 --output="./log_vehicle/qffedavg_samp1_run1_q0"
